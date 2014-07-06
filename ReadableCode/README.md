@@ -7,3 +7,5 @@ Eclipseの場合
 1.[File]->[Import]->[General]->[Existing Projects into Workspace]->[Next]
 2.[Select root directory]->[Browse]->[(保存したファイルのディレクトリを指定)]->[Finish]
 
+##仕様2
+実行後、ファイル名を入力
